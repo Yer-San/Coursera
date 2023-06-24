@@ -1,4 +1,4 @@
-# testrepo
+# Coursera
 
 ## Editing the file
 
